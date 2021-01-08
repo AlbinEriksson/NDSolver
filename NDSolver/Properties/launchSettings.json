@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NDSolver": {
+      "commandName": "Project",
+      "commandLineArgs": "31"
+    }
+  }
+}
